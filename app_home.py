@@ -6,4 +6,3 @@ def run_home() :
 
     st.text('데이터분석과 머신러닝 기능 포함한 앱 !')
     
-    st.text('추가 내용')
